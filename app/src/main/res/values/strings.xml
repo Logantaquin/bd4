@@ -1,0 +1,4 @@
+<resources>
+    <string name="msg">Voir les messages en console LogCat</string>
+    <string name="app_name">bd4</string>
+</resources>
